@@ -1,5 +1,5 @@
 :root {
-   --width: 691px;
+   --width: 680px;
    --font-main: "Menlo", monospace;
    --font-secondary: "Menlo", monospace;
    --font-scale: 1em;
@@ -208,4 +208,11 @@ nav a:hover {
 
 .blog-page a:visited {
    color: var(--visited-color);
+}
+footer {
+   font-size: 14px; /* Set to your desired size */
+}
+
+.footnotes {
+   font-size: smaller; /* Relative to parent element */
 }
