@@ -1,7 +1,7 @@
 :root {
-   --width: 680px;
-   --font-main: "Menlo", monospace;
-   --font-secondary: "Menlo", monospace;
+   --width: 720px;
+   --font-main: "JetBrains Mono", monospace;
+   --font-secondary: "JetBrains Mono", monospace;
    --font-scale: 1em;
    --background-color: #fff; /* old #fff */
    --heading-color: #222; /* old #222 */
