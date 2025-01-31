@@ -3,8 +3,8 @@
    --font-main: "JetBrains Mono", monospace;
    --font-secondary: "JetBrains Mono", monospace;
    --font-scale: 1em;
-   --background-color: #e6eeff; /* old #fff */
-   --heading-color: #222; /* old #222 */
+   --background-color: #ffff; /* old #fff */
+   --heading-color: #222222; /* old #222 */
    --text-color: #444;
    --link-color: #990033;
    --visited-color: #990033;
@@ -17,8 +17,8 @@
 @media (prefers-color-scheme: dark) {
    :root {
       --background-color: #01242e;
-      --heading-color: #eee;
-      --text-color: #ddd;
+      --heading-color: #eeeeee;
+      --text-color: #dddddd;
       --link-color: #8cc2dd;
       --visited-color: #8b6fcb;
       --code-background-color: #000;
