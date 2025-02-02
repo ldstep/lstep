@@ -7,20 +7,20 @@
         <atom:link href="https://lstep.xyz/feed.xml" rel="self" type="application/rss+xml" />
 
         <item>
-            <title>Update on lstep.xyz</title>
-            <link>https://lstep.xyz/posts/update-on-lstepxyz</link>
+            <title>“Unplatform” a guidebook for escaping social media</title>
+            <link>https://lstep.xyz/posts/unplatform-a-guidebook-for-escaping-social-media</link>
             <description>
             <![CDATA[
-           <p>In 2024, I picked up the lstep.xyz domain with the idea of using it as a space to blog about non-tech stuff. All my tech related writing happens over at <a href="https://ldstephens.me">ldstephens.me</a>. But honestly? The way I’ve used it so far has been all over the place. I hosted it on Pika off and on, but I was never fully settled on it.</p>
+           <p><a href="https://unplatform.fromthesuperhighway.com/">Unplatform</a></p>
 
-            <p>Lately, I’ve been thinking about moving it to a static site. I finally did it. The biggest reason was that I didn’t want to be tied to a platform. That’s exactly why I moved ldstephens.me to a static site too. Sure, I love the technical challenge, but more than that, I wanted full control. Platforms change, they shut down, and they enforce rules. When you own your own site, you make the rules.</p>
+            <blockquote>
+            <p>Unplatform is an interactive guidebook, online library, and recommendations database intended to help you escape social media and join the indie web.</p>
+            </blockquote>
 
-            <p>This blog is mine. I built it myself, and I’m proud of that. Now I can do whatever the hell I want with it. It’s my own little corner of the internet. When you run your own site, you control everything. The content, the design, the URLs everything. No middlemen, no restrictions. Just a direct line between me and whoever stops by to read.</p>
-
-            <p>Oh, and if you’ve been following via RSS, don’t worry. I’ve set up a 301 redirect, so your feed should keep working just fine.</p>
+            <p>I’m not on social media, but I’m a big fan of having your own space on the indie web. If you’re thinking about quitting social media, this guidebook is definitely worth checking out.</p>  
              ]]>
              </description>
-            <pubDate>Sat, 01 Feb 2025 17:57:20 -0500</pubDate>   
+            <pubDate>Sun, 02 Feb 2025 10:14:00 -0500</pubDate>   
         </item>
     </channel>
 </rss>
