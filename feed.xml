@@ -7,11 +7,11 @@
         <atom:link href="https://lstep.xyz/feed.xml" rel="self" type="application/rss+xml" />
 
         <item>
-            <title>11ty project</title>
-            <link>https://lstep.xyz/posts/11ty-project</link>
+            <title>11ty project update</title>
+            <link>https://lstep.xyz/posts/11ty-project-update</link>
             <description>
             <![CDATA[
-             <p>Yesterday, I decided to replicate this site in 11ty as a learning project. The first thing I did was install Node.js. When I came to the 11ty install step, the install failed. After some additional attempts, I determined the problem might be the version of Node.js that I installed. So I uninstalled Node.js. Today, I’ll install a different version and start over.</p>
+             <p>My attempt at replicating this site using 11ty was a complete failure. The skills required for the project are beyond my capabilities. The site works great as is with pure <a href="https://htmlforpeople.com/">HTML and CSS</a> which I know how to manage.</p>
              ]]>
              </description>
             <pubDate>Mon, 03 Feb 2025 08:51:28 -0500</pubDate>   
