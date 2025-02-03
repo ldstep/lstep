@@ -7,48 +7,14 @@
         <atom:link href="https://lstep.xyz/feed.xml" rel="self" type="application/rss+xml" />
 
         <item>
-            <title>🔗 Link Post: Don't Make a Blog, Make a Brain Dump</title>
-            <link>https://lstep.xyz/posts/link-post-dont-make-a-blog-make-a-brain-dump</link>
+            <title>11ty project</title>
+            <link>https://lstep.xyz/posts/11ty-project</link>
             <description>
             <![CDATA[
-            <p>
-            <a href="https://btxx.org/posts/dump/#menu"
-               >Bradley Taunt, btxx.org</a
-            >:
-         </p>
-
-         <blockquote>
-            <p>
-               Another problem arises when you finally do convince someone to
-               start “blogging” online; self-doubt.
-            </p>
-
-            <ul>
-               <li>“What could I possibly have to share?”</li>
-               <li>“What if everyone hates what I post?”</li>
-               <li>“What if my content sucks?”</li>
-            </ul>
-
-            <p>
-               Just dump it. Who cares. It’s the internet after all, so who are
-               you trying to impress? The point is that your sharing your own
-               experiences that are unique to you as an individual. Posting
-               something that you think is pointless or mundane might be
-               extremely helpful or, at the very least, entertaining for someone
-               else.
-            </p>
-
-            <p>
-               Write up what you did over the weekend, a new recipe you tried
-               out, review a movie/book or video game you enjoyed, list
-               step-by-step instructions on how you installed a new appliance in
-               your house - anything! Just write and be part of what made the
-               internet fun, exciting and personal again.
-            </p>
-         </blockquote>
+             <p>Yesterday, I decided to replicate this site in 11ty as a learning project. The first thing I did was install Node.js. When I came to the 11ty install step, the install failed. After some additional attempts, I determined the problem might be the version of Node.js that I installed. So I uninstalled Node.js. Today, I’ll install a different version and start over.</p>
              ]]>
              </description>
-            <pubDate>Sun, 02 Feb 2025 10:58:27 -0500</pubDate>   
+            <pubDate>Mon, 03 Feb 2025 08:51:28 -0500</pubDate>   
         </item>
     </channel>
 </rss>
