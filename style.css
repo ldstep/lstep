@@ -3,14 +3,14 @@
    --font-main: "JetBrains Mono", monospace;
    --font-secondary: "JetBrains Mono", monospace;
    --font-scale: 1em;
-   --background-color: #ffff; /* old #fff */
-   --heading-color: #222222; /* old #222 */
-   --text-color: #444;
-   --link-color: #2536ee;
-   --visited-color: #2536ee;
-   --code-background-color: #f2f2f2;
-   --code-color: #222;
-   --blockquote-color: #222;
+   --background-color: #01242e; /* old #fff */
+   --heading-color: #eeeeee; /* old #222 */
+   --text-color: #dddddd;
+   --link-color: #8cc2dd;
+   --visited-color: #8cc2dd;
+   --code-background-color: #000;
+   --code-color: #ddd;
+   --blockquote-color: #ccc;
    --shade-color: #f5f5f5;
 }
 
